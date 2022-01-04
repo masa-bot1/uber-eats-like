@@ -38,7 +38,7 @@ const MainCover = styled.img`
 
 const RestaurantsContentsList = styled.div`
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   margin-bottom: 150px;
 `;
 
